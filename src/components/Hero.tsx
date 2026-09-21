@@ -33,7 +33,7 @@ export function Hero() {
             alt="Vista del río Cauca a su paso por la zona urbana de Popayán"
             loading="lazy"
           />
-          <figcaption>Río Cauca a su paso por zona urbana.</figcaption>
+          <figcaption>Cauce de un río a su paso por zona urbana.</figcaption>
         </figure>
       </div>
 
